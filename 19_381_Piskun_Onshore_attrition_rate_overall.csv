@@ -1,0 +1,786 @@
+ref_year,provider_code,code_year,provider_name,attrition_rate
+2011,1019,1019-2012,James Cook University,20.2
+2011,1034,1034-2012,Murdoch University,16.56
+2011,1055,1055-2012,The University of Western Australia,8.14
+2011,1058,1058-2012,University of Wollongong,10.13
+2011,2148,2148-2012,The National Institute of Dramatic Art,6.06
+2011,2154,2154-2012,Federation University Australia,19.65
+2011,2170,2170-2012,Marcus Oldham College,4.96
+2011,2177,2177-2012,Swinburne University of Technology,15.19
+2011,2200,2200-2012,CQUniversity,22.44
+2011,2201,2201-2012,University of Southern Queensland,24.02
+2011,2235,2235-2012,Edith Cowan University,17.97
+2011,2236,2236-2012,Curtin University,13.44
+2011,2241,2241-2012,University of Canberra,13.84
+2011,2246,2246-2012,Batchelor Institute of Indigenous Tertiary Education,38.22
+2011,2252,2252-2012,Avondale College of Higher Education,18.2
+2011,2271,2271-2012,"Australian Film, Television and Radio School",3.07
+2011,3001,3001-2012,Charles Darwin University,27.41
+2011,3003,3003-2012,Bond University,10.3
+2011,3004,3004-2012,Western Sydney University,12.29
+2011,3005,3005-2012,Charles Sturt University,21.24
+2011,3006,3006-2012,Australian Catholic University,14.18
+2011,3007,3007-2012,Victoria University,15.4
+2011,3010,3010-2012,The University of Adelaide,9.68
+2011,3013,3013-2012,University of New South Wales,8.61
+2011,3014,3014-2012,The University of Newcastle,14.65
+2011,3016,3016-2012,University of Technology Sydney,9.27
+2011,3019,3019-2012,The University of Queensland,8.78
+2011,3020,3020-2012,La Trobe University,11.76
+2011,3025,3025-2012,Macquarie University,10.56
+2011,3027,3027-2012,University of South Australia,16.3
+2011,3029,3029-2012,Flinders University,14.81
+2011,3030,3030-2012,Deakin University,12.67
+2011,3032,3032-2012,Griffith University,12.73
+2011,3033,3033-2012,The Australian National University,8.59
+2011,3034,3034-2012,RMIT University,11.1
+2011,3035,3035-2012,Monash University,9.09
+2011,3036,3036-2012,The University of Melbourne,6.88
+2011,3038,3038-2012,Southern Cross University,22.61
+2011,3039,3039-2012,The University of New England,21.19
+2011,3040,3040-2012,The University of Sydney,6.93
+2011,3042,3042-2012,Queensland University of Technology,11.22
+2011,3043,3043-2012,University of the Sunshine Coast,19.99
+2011,3044,3044-2012,The University of Notre Dame Australia,13.37
+2011,3045,3045-2012,University of Tasmania,24.61
+2011,4331,4331-2012,University of Divinity,24.2
+2011,4332,4332-2012,Sydney College of Divinity,30.22
+2011,4333,4333-2012,Christian Heritage College,25.05
+2011,4334,4334-2012,Tabor Adelaide,25.91
+2011,4335,4335-2012,Australian College of Theology,26.78
+2011,4336,4336-2012,Australian College of Applied Psychology,43.18
+2011,4337,4337-2012,Eastern College Australia,30.68
+2011,4338,4338-2012,Moore Theological College,16.54
+2011,4339,4339-2012,Holmes Institute,29.73
+2011,4340,4340-2012,Monash College,17.12
+2011,4341,4341-2012,Harvest Bible College,24.64
+2011,4342,4342-2012,Australian Lutheran College,36.71
+2011,4343,4343-2012,Australian Institute of Music,25.16
+2011,4344,4344-2012,South Aust Institute of Business & Technology,26.98
+2011,4346,4346-2012,Excelsia College,10.98
+2011,4348,4348-2012,Deakin College,19.95
+2011,4349,4349-2012,Sydney Institute of Business and Technology,10.19
+2011,4350,4350-2012,Queensland Institute of Business and Technology,20.72
+2011,4351,4351-2012,Navitas College of Public Safety Pty Ltd,30.56
+2011,4352,4352-2012,The Australian College of Physical Education,25.59
+2011,4354,4354-2012,Oceania Polytechnic,81.58
+2011,4355,4355-2012,Adelaide College of Divinity,23.91
+2011,4357,4357-2012,Blue Mountains Intl Hotel Management School,11.52
+2011,4358,4358-2012,East Coast Gestalt Training Incorporated,69.23
+2011,4359,4359-2012,The College of Law,13.75
+2011,4360,4360-2012,Perth Bible College,38.24
+2011,4361,4361-2012,Endeavour College of Natural Health,37.3
+2011,4362,4362-2012,International College of Hotel Management,4.21
+2011,4363,4363-2012,Northern Melbourne Institute of TAFE,33.25
+2011,4364,4364-2012,Edith Cowan College,13.91
+2011,4365,4365-2012,Curtin College,24.62
+2011,4366,4366-2012,Box Hill Institute,25.52
+2011,4367,4367-2012,Melbourne Institute of Technology,25.4
+2011,4368,4368-2012,Campion College,16.13
+2011,4370,4370-2012,Tabor College Tasmania,36.96
+2011,4371,4371-2012,SAE Creative Media Institute,26.78
+2011,4372,4372-2012,The Gordon,0
+2011,4373,4373-2012,Jansen Newman Institute Pty. Limited,50
+2011,4374,4374-2012,Carnegie Mellon University Australia,4.82
+2011,4375,4375-2012,Think: Colleges Pty Ltd,34.77
+2011,4377,4377-2012,UOW College,13.89
+2011,4378,4378-2012,JMC Academy,29.15
+2011,4380,4380-2012,UTS:INSEARCH,14.96
+2011,4381,4381-2012,"International College of Management, Sydney",16.92
+2011,4382,4382-2012,Australian Guild of Music Education Inc.,27.27
+2011,4383,4383-2012,Holmesglen Institute of TAFE,30.69
+2011,4384,4384-2012,Kaplan Business School,28.67
+2011,4385,4385-2012,Polytechnic West,29.52
+2011,4386,4386-2012,Macleay College,24.09
+2011,4387,4387-2012,Raffles College of Design and Commerce,11.07
+2011,4388,4388-2012,Australian Academy of Music and Performing Arts,34.15
+2011,4389,4389-2012,Cairnmillar Institute School,19.64
+2011,4391,4391-2012,Eynesbury,16.08
+2011,4392,4392-2012,Gestalt Therapy Brisbane,9.09
+2011,4393,4393-2012,MIECAT,29.51
+2011,4394,4394-2012,William Angliss Institute of TAFE,26.02
+2011,4395,4395-2012,Adelaide Central School of Art,41.07
+2011,4396,4396-2012,LCI Melbourne,17.82
+2011,4399,4399-2012,Open Colleges Pty Limited,60
+2011,4401,4401-2012,Whitehouse Institute of Design; Australia,19.53
+2011,4402,4402-2012,Leo Cussen Institute,0
+2011,4403,4403-2012,Harvest West Bible College Inc,33.33
+2011,4404,4404-2012,Carrick Higher Education,1.41
+2011,4405,4405-2012,Australian Institute of Professional Counsellors,44.29
+2011,4406,4406-2012,Canberra Institute of Technology,35.42
+2011,4407,4407-2012,Alphacrucis College,32.91
+2011,4408,4408-2012,TAFE Queensland t/a TAFE Queensland - Brisbane,23.53
+2011,4409,4409-2012,Universal Business School Sydney (UBSS),13.33
+2011,4410,4410-2012,Australian Institute of Management SA Division Inc,20.34
+2011,4411,4411-2012,Stotts Colleges,43.28
+2011,4412,4412-2012,Morling College,53.22
+2011,4413,4413-2012,University College London,16.67
+2011,4414,4414-2012,Chifley Business School,24.24
+2011,4415,4415-2012,Top Education Institute,0
+2011,7014,7014-2012,Jazz Music Institute,14.29
+2011,7073,7073-2012,Chisholm Institute,24
+2011,7075,7075-2012,TAFE NSW,8.7
+2011,7116,7116-2012,Study Group Australia Pty Ltd,34.48
+2011,7124,7124-2012,Academy of Information Technology,0
+2012,1019,1019-2013,James Cook University,21.66
+2012,1034,1034-2013,Murdoch University,18.53
+2012,1055,1055-2013,The University of Western Australia,7.84
+2012,1058,1058-2013,University of Wollongong,10.08
+2012,2148,2148-2013,The National Institute of Dramatic Art,6.56
+2012,2154,2154-2013,Federation University Australia,23.13
+2012,2170,2170-2013,Marcus Oldham College,1.33
+2012,2177,2177-2013,Swinburne University of Technology,21.39
+2012,2200,2200-2013,CQUniversity,23.32
+2012,2201,2201-2013,University of Southern Queensland,24.87
+2012,2235,2235-2013,Edith Cowan University,18.23
+2012,2236,2236-2013,Curtin University,14.38
+2012,2241,2241-2013,University of Canberra,13.63
+2012,2252,2252-2013,Avondale College of Higher Education,15.66
+2012,2271,2271-2013,"Australian Film, Television and Radio School",4.92
+2012,3001,3001-2013,Charles Darwin University,24.53
+2012,3003,3003-2013,Bond University,10.44
+2012,3004,3004-2013,Western Sydney University,12.69
+2012,3005,3005-2013,Charles Sturt University,19.85
+2012,3006,3006-2013,Australian Catholic University,14.06
+2012,3007,3007-2013,Victoria University,19
+2012,3010,3010-2013,The University of Adelaide,10.94
+2012,3013,3013-2013,University of New South Wales,7.87
+2012,3014,3014-2013,The University of Newcastle,14.66
+2012,3016,3016-2013,University of Technology Sydney,9.19
+2012,3019,3019-2013,The University of Queensland,9.79
+2012,3020,3020-2013,La Trobe University,10.77
+2012,3025,3025-2013,Macquarie University,10.47
+2012,3027,3027-2013,University of South Australia,15.67
+2012,3029,3029-2013,Flinders University,14.91
+2012,3030,3030-2013,Deakin University,13.03
+2012,3032,3032-2013,Griffith University,13.71
+2012,3033,3033-2013,The Australian National University,8.72
+2012,3034,3034-2013,RMIT University,11.68
+2012,3035,3035-2013,Monash University,8.2
+2012,3036,3036-2013,The University of Melbourne,6.31
+2012,3038,3038-2013,Southern Cross University,24.78
+2012,3039,3039-2013,The University of New England,21.63
+2012,3040,3040-2013,The University of Sydney,7.1
+2012,3042,3042-2013,Queensland University of Technology,11.23
+2012,3043,3043-2013,University of the Sunshine Coast,20.47
+2012,3044,3044-2013,The University of Notre Dame Australia,12.14
+2012,3045,3045-2013,University of Tasmania,27.15
+2012,4331,4331-2013,University of Divinity,20.8
+2012,4332,4332-2013,Sydney College of Divinity,23.8
+2012,4333,4333-2013,Christian Heritage College,28.73
+2012,4334,4334-2013,Tabor Adelaide,24.32
+2012,4335,4335-2013,Australian College of Theology,26.28
+2012,4336,4336-2013,Australian College of Applied Psychology,37.03
+2012,4337,4337-2013,Eastern College Australia,27.22
+2012,4338,4338-2013,Moore Theological College,15.44
+2012,4339,4339-2013,Holmes Institute,34.14
+2012,4340,4340-2013,Monash College,13.01
+2012,4341,4341-2013,Harvest Bible College,20.08
+2012,4342,4342-2013,Australian Lutheran College,0
+2012,4343,4343-2013,Australian Institute of Music,22.64
+2012,4344,4344-2013,South Aust Institute of Business & Technology,24.19
+2012,4346,4346-2013,Excelsia College,16.11
+2012,4347,4347-2013,Tabor College NSW,27.27
+2012,4348,4348-2013,Deakin College,22.36
+2012,4349,4349-2013,Sydney Institute of Business and Technology,10.31
+2012,4350,4350-2013,Queensland Institute of Business and Technology,19.77
+2012,4351,4351-2013,Navitas College of Public Safety Pty Ltd,36.42
+2012,4352,4352-2013,The Australian College of Physical Education,32.68
+2012,4355,4355-2013,Adelaide College of Divinity,34.21
+2012,4357,4357-2013,Blue Mountains Intl Hotel Management School,10.34
+2012,4359,4359-2013,The College of Law,12.78
+2012,4360,4360-2013,Perth Bible College,48.84
+2012,4361,4361-2013,Endeavour College of Natural Health,26.09
+2012,4362,4362-2013,International College of Hotel Management,19.03
+2012,4363,4363-2013,Northern Melbourne Institute of TAFE,26.57
+2012,4364,4364-2013,Edith Cowan College,18.77
+2012,4365,4365-2013,Curtin College,27.99
+2012,4366,4366-2013,Box Hill Institute,22.85
+2012,4367,4367-2013,Melbourne Institute of Technology,22.3
+2012,4368,4368-2013,Campion College,16.67
+2012,4370,4370-2013,Tabor College Tasmania,35.71
+2012,4371,4371-2013,SAE Creative Media Institute,28.72
+2012,4374,4374-2013,Carnegie Mellon University Australia,6.67
+2012,4375,4375-2013,Think: Colleges Pty Ltd,32.87
+2012,4377,4377-2013,UOW College,9.72
+2012,4378,4378-2013,JMC Academy,28.28
+2012,4380,4380-2013,UTS:INSEARCH,13.89
+2012,4381,4381-2013,"International College of Management, Sydney",20.5
+2012,4382,4382-2013,Australian Guild of Music Education Inc.,50
+2012,4383,4383-2013,Holmesglen Institute of TAFE,31.06
+2012,4384,4384-2013,Kaplan Business School,34.22
+2012,4385,4385-2013,Polytechnic West,32.99
+2012,4386,4386-2013,Macleay College,24.7
+2012,4387,4387-2013,Raffles College of Design and Commerce,8.01
+2012,4388,4388-2013,Australian Academy of Music and Performing Arts,19.51
+2012,4389,4389-2013,Cairnmillar Institute School,8.26
+2012,4391,4391-2013,Eynesbury,18.89
+2012,4392,4392-2013,Gestalt Therapy Brisbane,5.26
+2012,4393,4393-2013,MIECAT,10.17
+2012,4394,4394-2013,William Angliss Institute of TAFE,20.04
+2012,4395,4395-2013,Adelaide Central School of Art,26
+2012,4396,4396-2013,LCI Melbourne,23.96
+2012,4401,4401-2013,Whitehouse Institute of Design; Australia,16.83
+2012,4402,4402-2013,Leo Cussen Institute,2.55
+2012,4403,4403-2013,Harvest West Bible College Inc,46.43
+2012,4404,4404-2013,Carrick Higher Education,29.69
+2012,4405,4405-2013,Australian Institute of Professional Counsellors,37.08
+2012,4406,4406-2013,Canberra Institute of Technology,50
+2012,4407,4407-2013,Alphacrucis College,24.08
+2012,4408,4408-2013,TAFE Queensland t/a TAFE Queensland - Brisbane,20.07
+2012,4409,4409-2013,Universal Business School Sydney (UBSS),25.8
+2012,4410,4410-2013,Australian Institute of Management SA Division Inc,25.45
+2012,4411,4411-2013,Stotts Colleges,40.22
+2012,4412,4412-2013,Morling College,45.38
+2012,4413,4413-2013,University College London,15.79
+2012,4414,4414-2013,Chifley Business School,35.29
+2012,4415,4415-2013,Top Education Institute,27.9
+2012,4417,4417-2013,La Trobe Melbourne,20
+2012,4418,4418-2013,Australian School of Management,10
+2012,7001,7001-2013,Collarts,12.5
+2012,7014,7014-2013,Jazz Music Institute,11.54
+2012,7073,7073-2013,Chisholm Institute,26.58
+2012,7075,7075-2013,TAFE NSW,24.19
+2012,7116,7116-2013,Study Group Australia Pty Ltd,5.81
+2012,7124,7124-2013,Academy of Information Technology,24.32
+2012,7125,7125-2013,Phoenix Institute of Australia Pty Ltd,32
+2013,1019,1019-2014,James Cook University,20.58
+2013,1034,1034-2014,Murdoch University,20.29
+2013,1055,1055-2014,The University of Western Australia,8.64
+2013,1058,1058-2014,University of Wollongong,11.73
+2013,2148,2148-2014,The National Institute of Dramatic Art,4.23
+2013,2154,2154-2014,Federation University Australia,24.16
+2013,2170,2170-2014,Marcus Oldham College,2.44
+2013,2177,2177-2014,Swinburne University of Technology,24.8
+2013,2200,2200-2014,CQUniversity,22.17
+2013,2201,2201-2014,University of Southern Queensland,25.31
+2013,2235,2235-2014,Edith Cowan University,19.98
+2013,2236,2236-2014,Curtin University,13.86
+2013,2241,2241-2014,University of Canberra,15.25
+2013,2252,2252-2014,Avondale College of Higher Education,17.93
+2013,2271,2271-2014,"Australian Film, Television and Radio School",4.25
+2013,3001,3001-2014,Charles Darwin University,25.46
+2013,3003,3003-2014,Bond University,10.3
+2013,3004,3004-2014,Western Sydney University,12.77
+2013,3005,3005-2014,Charles Sturt University,19.98
+2013,3006,3006-2014,Australian Catholic University,14.86
+2013,3007,3007-2014,Victoria University,20.72
+2013,3010,3010-2014,The University of Adelaide,9.91
+2013,3013,3013-2014,University of New South Wales,8.44
+2013,3014,3014-2014,The University of Newcastle,15.01
+2013,3016,3016-2014,University of Technology Sydney,9.67
+2013,3019,3019-2014,The University of Queensland,9.71
+2013,3020,3020-2014,La Trobe University,12.38
+2013,3025,3025-2014,Macquarie University,10.19
+2013,3027,3027-2014,University of South Australia,16.88
+2013,3029,3029-2014,Flinders University,15.76
+2013,3030,3030-2014,Deakin University,14.38
+2013,3032,3032-2014,Griffith University,14.1
+2013,3033,3033-2014,The Australian National University,8.89
+2013,3034,3034-2014,RMIT University,11.32
+2013,3035,3035-2014,Monash University,8.8
+2013,3036,3036-2014,The University of Melbourne,5.73
+2013,3038,3038-2014,Southern Cross University,25.3
+2013,3039,3039-2014,The University of New England,22.14
+2013,3040,3040-2014,The University of Sydney,7.73
+2013,3042,3042-2014,Queensland University of Technology,12.16
+2013,3043,3043-2014,University of the Sunshine Coast,21.08
+2013,3044,3044-2014,The University of Notre Dame Australia,12.12
+2013,3045,3045-2014,University of Tasmania,31.32
+2013,4331,4331-2014,University of Divinity,20.96
+2013,4332,4332-2014,Sydney College of Divinity,20.25
+2013,4333,4333-2014,Christian Heritage College,23.93
+2013,4334,4334-2014,Tabor Adelaide,29.77
+2013,4335,4335-2014,Australian College of Theology,25.99
+2013,4336,4336-2014,Australian College of Applied Psychology,36.74
+2013,4337,4337-2014,Eastern College Australia,21.48
+2013,4338,4338-2014,Moore Theological College,14.57
+2013,4339,4339-2014,Holmes Institute,32.41
+2013,4340,4340-2014,Monash College,12.43
+2013,4341,4341-2014,Harvest Bible College,30.89
+2013,4343,4343-2014,Australian Institute of Music,24.83
+2013,4344,4344-2014,South Aust Institute of Business & Technology,25.66
+2013,4346,4346-2014,Excelsia College,21.93
+2013,4347,4347-2014,Tabor College NSW,23.08
+2013,4348,4348-2014,Deakin College,20.45
+2013,4349,4349-2014,Sydney Institute of Business and Technology,12.54
+2013,4350,4350-2014,Queensland Institute of Business and Technology,21.96
+2013,4351,4351-2014,Navitas College of Public Safety Pty Ltd,32.87
+2013,4352,4352-2014,The Australian College of Physical Education,29.23
+2013,4355,4355-2014,Adelaide College of Divinity,48.39
+2013,4357,4357-2014,Blue Mountains Intl Hotel Management School,11.26
+2013,4359,4359-2014,The College of Law,9.38
+2013,4360,4360-2014,Perth Bible College,48.08
+2013,4361,4361-2014,Endeavour College of Natural Health,31.7
+2013,4362,4362-2014,International College of Hotel Management,10.61
+2013,4363,4363-2014,Northern Melbourne Institute of TAFE,31.81
+2013,4364,4364-2014,Edith Cowan College,19.31
+2013,4365,4365-2014,Curtin College,19.42
+2013,4366,4366-2014,Box Hill Institute,28.32
+2013,4367,4367-2014,Melbourne Institute of Technology,24.85
+2013,4368,4368-2014,Campion College,21.21
+2013,4370,4370-2014,Tabor College Tasmania,48.28
+2013,4371,4371-2014,SAE Creative Media Institute,29.33
+2013,4374,4374-2014,Carnegie Mellon University Australia,0.97
+2013,4375,4375-2014,Think: Colleges Pty Ltd,33.04
+2013,4377,4377-2014,UOW College,34.69
+2013,4378,4378-2014,JMC Academy,26.93
+2013,4380,4380-2014,UTS:INSEARCH,17.59
+2013,4381,4381-2014,"International College of Management, Sydney",20.41
+2013,4382,4382-2014,Australian Guild of Music Education Inc.,33.33
+2013,4383,4383-2014,Holmesglen Institute of TAFE,37.59
+2013,4384,4384-2014,Kaplan Business School,30.32
+2013,4385,4385-2014,Polytechnic West,29.05
+2013,4386,4386-2014,Macleay College,26.59
+2013,4387,4387-2014,Raffles College of Design and Commerce,17.77
+2013,4388,4388-2014,Australian Academy of Music and Performing Arts,16.67
+2013,4389,4389-2014,Cairnmillar Institute School,8.16
+2013,4391,4391-2014,Eynesbury,19.77
+2013,4392,4392-2014,Gestalt Therapy Brisbane,7.69
+2013,4393,4393-2014,MIECAT,13.11
+2013,4394,4394-2014,William Angliss Institute of TAFE,15.9
+2013,4395,4395-2014,Adelaide Central School of Art,23.81
+2013,4396,4396-2014,LCI Melbourne,23.42
+2013,4401,4401-2014,Whitehouse Institute of Design; Australia,17.65
+2013,4402,4402-2014,Leo Cussen Institute,16.38
+2013,4403,4403-2014,Harvest West Bible College Inc,24.24
+2013,4405,4405-2014,Australian Institute of Professional Counsellors,49.22
+2013,4406,4406-2014,Canberra Institute of Technology,37.21
+2013,4407,4407-2014,Alphacrucis College,27.27
+2013,4408,4408-2014,TAFE Queensland t/a TAFE Queensland - Brisbane,44.88
+2013,4409,4409-2014,Universal Business School Sydney (UBSS),34.48
+2013,4410,4410-2014,Australian Institute of Management SA Division Inc,13.73
+2013,4411,4411-2014,Stotts Colleges,39.78
+2013,4412,4412-2014,Morling College,38.66
+2013,4413,4413-2014,University College London,9.09
+2013,4414,4414-2014,Chifley Business School,14.14
+2013,4415,4415-2014,Top Education Institute,33.2
+2013,4417,4417-2014,La Trobe Melbourne,34.85
+2013,4418,4418-2014,Australian School of Management,8.82
+2013,4419,4419-2014,National Art School,14.11
+2013,4420,4420-2014,Kent Institute Australia,29.49
+2013,4421,4421-2014,Le Cordon Bleu Australia,9.94
+2013,4423,4423-2014,Tabor College Perth,39.13
+2013,4424,4424-2014,Kaplan Higher Education,35.32
+2013,4425,4425-2014,Australian Institute of Business,8.38
+2013,4426,4426-2014,John Paul ll Institute for Marriage and Family,23.81
+2013,4427,4427-2014,Vose College,100
+2013,4428,4428-2014,Nan Tien Institute,25
+2013,4450,4450-2014,TAFE Queensland,9.81
+2013,7001,7001-2014,Collarts,25.51
+2013,7014,7014-2014,Jazz Music Institute,12.5
+2013,7035,7035-2014,Photography Studies College (Melbourne),27.12
+2013,7041,7041-2014,Sydney Institute of Traditional Chinese Medicine,38.46
+2013,7073,7073-2014,Chisholm Institute,25.68
+2013,7075,7075-2014,TAFE NSW,24.24
+2013,7116,7116-2014,Study Group Australia Pty Ltd,28.71
+2013,7124,7124-2014,Academy of Information Technology,22.22
+2013,7125,7125-2014,Phoenix Institute of Australia Pty Ltd,21.43
+2013,7338,7338-2014,TAFE SA,46.63
+2014,1019,1019-2015,James Cook University,21.41
+2014,1034,1034-2015,Murdoch University,17.46
+2014,1055,1055-2015,The University of Western Australia,8.46
+2014,1058,1058-2015,University of Wollongong,11.24
+2014,2148,2148-2015,The National Institute of Dramatic Art,22.97
+2014,2154,2154-2015,Federation University Australia,22.16
+2014,2170,2170-2015,Marcus Oldham College,6.6
+2014,2177,2177-2015,Swinburne University of Technology,23.06
+2014,2200,2200-2015,CQUniversity,20.33
+2014,2201,2201-2015,University of Southern Queensland,23.18
+2014,2235,2235-2015,Edith Cowan University,19.25
+2014,2236,2236-2015,Curtin University,14.25
+2014,2241,2241-2015,University of Canberra,16.04
+2014,2252,2252-2015,Avondale College of Higher Education,17.92
+2014,2271,2271-2015,"Australian Film, Television and Radio School",2.59
+2014,3001,3001-2015,Charles Darwin University,24.48
+2014,3003,3003-2015,Bond University,10.28
+2014,3004,3004-2015,Western Sydney University,13.79
+2014,3005,3005-2015,Charles Sturt University,20.22
+2014,3006,3006-2015,Australian Catholic University,16.29
+2014,3007,3007-2015,Victoria University,20.81
+2014,3010,3010-2015,The University of Adelaide,10.03
+2014,3013,3013-2015,University of New South Wales,7.76
+2014,3014,3014-2015,The University of Newcastle,16.52
+2014,3016,3016-2015,University of Technology Sydney,9.32
+2014,3019,3019-2015,The University of Queensland,9.98
+2014,3020,3020-2015,La Trobe University,12.68
+2014,3025,3025-2015,Macquarie University,10.51
+2014,3027,3027-2015,University of South Australia,16.23
+2014,3029,3029-2015,Flinders University,18.83
+2014,3030,3030-2015,Deakin University,14.73
+2014,3032,3032-2015,Griffith University,14.95
+2014,3033,3033-2015,The Australian National University,8.98
+2014,3034,3034-2015,RMIT University,11.47
+2014,3035,3035-2015,Monash University,8.03
+2014,3036,3036-2015,The University of Melbourne,5.73
+2014,3038,3038-2015,Southern Cross University,26.05
+2014,3039,3039-2015,The University of New England,22.81
+2014,3040,3040-2015,The University of Sydney,7.27
+2014,3042,3042-2015,Queensland University of Technology,13.02
+2014,3043,3043-2015,University of the Sunshine Coast,19.41
+2014,3044,3044-2015,The University of Notre Dame Australia,11.11
+2014,3045,3045-2015,University of Tasmania,34.68
+2014,4331,4331-2015,University of Divinity,19.69
+2014,4332,4332-2015,Sydney College of Divinity,21.59
+2014,4333,4333-2015,Christian Heritage College,29.91
+2014,4334,4334-2015,Tabor Adelaide,27.07
+2014,4335,4335-2015,Australian College of Theology,22.67
+2014,4336,4336-2015,Australian College of Applied Psychology,27.15
+2014,4337,4337-2015,Eastern College Australia,26.09
+2014,4338,4338-2015,Moore Theological College,18.1
+2014,4339,4339-2015,Holmes Institute,33.68
+2014,4340,4340-2015,Monash College,10.41
+2014,4341,4341-2015,Harvest Bible College,28.21
+2014,4343,4343-2015,Australian Institute of Music,23.5
+2014,4344,4344-2015,South Aust Institute of Business & Technology,31.44
+2014,4346,4346-2015,Excelsia College,18.57
+2014,4347,4347-2015,Tabor College NSW,16.67
+2014,4348,4348-2015,Deakin College,28.57
+2014,4349,4349-2015,Sydney Institute of Business and Technology,14.88
+2014,4350,4350-2015,Queensland Institute of Business and Technology,22.7
+2014,4352,4352-2015,The Australian College of Physical Education,26.51
+2014,4355,4355-2015,Adelaide College of Divinity,50
+2014,4357,4357-2015,Blue Mountains Intl Hotel Management School,10.24
+2014,4359,4359-2015,The College of Law,21.54
+2014,4360,4360-2015,Perth Bible College,43.75
+2014,4361,4361-2015,Endeavour College of Natural Health,31.54
+2014,4362,4362-2015,International College of Hotel Management,15.19
+2014,4363,4363-2015,Northern Melbourne Institute of TAFE,30.95
+2014,4364,4364-2015,Edith Cowan College,24.19
+2014,4365,4365-2015,Curtin College,9.56
+2014,4366,4366-2015,Box Hill Institute,28.28
+2014,4367,4367-2015,Melbourne Institute of Technology,25.31
+2014,4368,4368-2015,Campion College,7.32
+2014,4370,4370-2015,Tabor College Tasmania,48.48
+2014,4371,4371-2015,SAE Creative Media Institute,32.55
+2014,4374,4374-2015,Carnegie Mellon University Australia,0.95
+2014,4375,4375-2015,Think: Colleges Pty Ltd,37.89
+2014,4377,4377-2015,UOW College,19.15
+2014,4378,4378-2015,JMC Academy,30.5
+2014,4380,4380-2015,UTS:INSEARCH,17.07
+2014,4381,4381-2015,"International College of Management, Sydney",24.33
+2014,4382,4382-2015,Australian Guild of Music Education Inc.,44.44
+2014,4383,4383-2015,Holmesglen Institute of TAFE,28.89
+2014,4384,4384-2015,Kaplan Business School,31.63
+2014,4385,4385-2015,Polytechnic West,30.08
+2014,4386,4386-2015,Macleay College,3.41
+2014,4387,4387-2015,Raffles College of Design and Commerce,13.07
+2014,4388,4388-2015,Australian Academy of Music and Performing Arts,25.42
+2014,4389,4389-2015,Cairnmillar Institute School,12.17
+2014,4391,4391-2015,Eynesbury,19.12
+2014,4392,4392-2015,Gestalt Therapy Brisbane,8
+2014,4393,4393-2015,MIECAT,21.05
+2014,4394,4394-2015,William Angliss Institute of TAFE,16.87
+2014,4395,4395-2015,Adelaide Central School of Art,22.95
+2014,4396,4396-2015,LCI Melbourne,24.39
+2014,4401,4401-2015,Whitehouse Institute of Design; Australia,18.18
+2014,4402,4402-2015,Leo Cussen Institute,0
+2014,4403,4403-2015,Harvest West Bible College Inc,72.41
+2014,4405,4405-2015,Australian Institute of Professional Counsellors,41.96
+2014,4406,4406-2015,Canberra Institute of Technology,18.18
+2014,4407,4407-2015,Alphacrucis College,28.9
+2014,4409,4409-2015,Universal Business School Sydney (UBSS),41.47
+2014,4410,4410-2015,Australian Institute of Management SA Division Inc,40
+2014,4411,4411-2015,Stotts Colleges,43.23
+2014,4412,4412-2015,Morling College,39.6
+2014,4413,4413-2015,University College London,25
+2014,4414,4414-2015,Chifley Business School,31.5
+2014,4415,4415-2015,Top Education Institute,12.09
+2014,4417,4417-2015,La Trobe Melbourne,22.6
+2014,4418,4418-2015,Australian School of Management,30.43
+2014,4419,4419-2015,National Art School,10.23
+2014,4420,4420-2015,Kent Institute Australia,31.61
+2014,4421,4421-2015,Le Cordon Bleu Australia,8.47
+2014,4423,4423-2015,Tabor College Perth,40
+2014,4424,4424-2015,Kaplan Higher Education,30.83
+2014,4425,4425-2015,Australian Institute of Business,19.08
+2014,4426,4426-2015,John Paul ll Institute for Marriage and Family,11.11
+2014,4428,4428-2015,Nan Tien Institute,29.73
+2014,4429,4429-2015,Australian Institute for Relationship Studies,100
+2014,4445,4445-2015,Investment Banking Institute Business School,16.67
+2014,4449,4449-2015,Torrens University Australia,34.25
+2014,4450,4450-2015,TAFE Queensland,26.44
+2014,7001,7001-2015,Collarts,25.56
+2014,7007,7007-2015,Paramount College of Natural Medicine,40
+2014,7014,7014-2015,Jazz Music Institute,0
+2014,7035,7035-2015,Photography Studies College (Melbourne),7.02
+2014,7041,7041-2015,Sydney Institute of Traditional Chinese Medicine,22.78
+2014,7073,7073-2015,Chisholm Institute,37.18
+2014,7075,7075-2015,TAFE NSW,25.92
+2014,7116,7116-2015,Study Group Australia Pty Ltd,24.16
+2014,7124,7124-2015,Academy of Information Technology,28.47
+2014,7125,7125-2015,Phoenix Institute of Australia Pty Ltd,41.18
+2014,7252,7252-2015,AIPE,19.86
+2014,7338,7338-2015,TAFE SA,36.84
+2015,1019,1019-2016,James Cook University,21.25
+2015,1034,1034-2016,Murdoch University,18.05
+2015,1055,1055-2016,The University of Western Australia,7.17
+2015,1058,1058-2016,University of Wollongong,12.73
+2015,2148,2148-2016,The National Institute of Dramatic Art,2.74
+2015,2154,2154-2016,Federation University Australia,27.18
+2015,2170,2170-2016,Marcus Oldham College,9.26
+2015,2177,2177-2016,Swinburne University of Technology,22.39
+2015,2200,2200-2016,CQUniversity,20.17
+2015,2201,2201-2016,University of Southern Queensland,24.65
+2015,2235,2235-2016,Edith Cowan University,20.21
+2015,2236,2236-2016,Curtin University,16.49
+2015,2241,2241-2016,University of Canberra,17.39
+2015,2252,2252-2016,Avondale College of Higher Education,17.65
+2015,2271,2271-2016,"Australian Film, Television and Radio School",11.96
+2015,3001,3001-2016,Charles Darwin University,29.51
+2015,3003,3003-2016,Bond University,8.06
+2015,3004,3004-2016,Western Sydney University,15.86
+2015,3005,3005-2016,Charles Sturt University,20.51
+2015,3006,3006-2016,Australian Catholic University,15.41
+2015,3007,3007-2016,Victoria University,18.52
+2015,3010,3010-2016,The University of Adelaide,9.21
+2015,3013,3013-2016,University of New South Wales,7.42
+2015,3014,3014-2016,The University of Newcastle,16.09
+2015,3016,3016-2016,University of Technology Sydney,9.73
+2015,3019,3019-2016,The University of Queensland,9.09
+2015,3020,3020-2016,La Trobe University,14.12
+2015,3025,3025-2016,Macquarie University,9.55
+2015,3027,3027-2016,University of South Australia,15.71
+2015,3029,3029-2016,Flinders University,16.26
+2015,3030,3030-2016,Deakin University,14.72
+2015,3032,3032-2016,Griffith University,16.2
+2015,3033,3033-2016,The Australian National University,13.72
+2015,3034,3034-2016,RMIT University,11.07
+2015,3035,3035-2016,Monash University,8.51
+2015,3036,3036-2016,The University of Melbourne,5.76
+2015,3038,3038-2016,Southern Cross University,25.72
+2015,3039,3039-2016,The University of New England,25.29
+2015,3040,3040-2016,The University of Sydney,7.38
+2015,3042,3042-2016,Queensland University of Technology,11.52
+2015,3043,3043-2016,University of the Sunshine Coast,21.88
+2015,3044,3044-2016,The University of Notre Dame Australia,11.47
+2015,3045,3045-2016,University of Tasmania,34.8
+2015,4331,4331-2016,University of Divinity,20.75
+2015,4332,4332-2016,Sydney College of Divinity,25
+2015,4333,4333-2016,Christian Heritage College,28.4
+2015,4334,4334-2016,Tabor Adelaide,24.1
+2015,4335,4335-2016,Australian College of Theology,28.41
+2015,4336,4336-2016,Australian College of Applied Psychology,30.65
+2015,4337,4337-2016,Eastern College Australia,24
+2015,4338,4338-2016,Moore Theological College,11.81
+2015,4339,4339-2016,Holmes Institute,32.17
+2015,4340,4340-2016,Monash College,14.71
+2015,4341,4341-2016,Harvest Bible College,22.48
+2015,4343,4343-2016,Australian Institute of Music,24.88
+2015,4344,4344-2016,South Aust Institute of Business & Technology,28.09
+2015,4346,4346-2016,Excelsia College,24.1
+2015,4347,4347-2016,Tabor College NSW,23.08
+2015,4348,4348-2016,Deakin College,26.09
+2015,4349,4349-2016,Sydney Institute of Business and Technology,16.66
+2015,4350,4350-2016,Queensland Institute of Business and Technology,19.21
+2015,4352,4352-2016,The Australian College of Physical Education,25.18
+2015,4355,4355-2016,Adelaide College of Divinity,40
+2015,4357,4357-2016,Blue Mountains Intl Hotel Management School,79.94
+2015,4359,4359-2016,The College of Law,24.69
+2015,4360,4360-2016,Perth Bible College,46.15
+2015,4361,4361-2016,Endeavour College of Natural Health,25.82
+2015,4362,4362-2016,International College of Hotel Management,18.09
+2015,4363,4363-2016,Northern Melbourne Institute of TAFE,25.56
+2015,4364,4364-2016,Edith Cowan College,15.45
+2015,4365,4365-2016,Curtin College,10.83
+2015,4366,4366-2016,Box Hill Institute,24.68
+2015,4367,4367-2016,Melbourne Institute of Technology,23.59
+2015,4368,4368-2016,Campion College,24
+2015,4370,4370-2016,Tabor College Tasmania,61.29
+2015,4371,4371-2016,SAE Creative Media Institute,27.68
+2015,4374,4374-2016,Carnegie Mellon University Australia,3.94
+2015,4375,4375-2016,Think: Colleges Pty Ltd,32.91
+2015,4377,4377-2016,UOW College,16.26
+2015,4378,4378-2016,JMC Academy,27.48
+2015,4380,4380-2016,UTS:INSEARCH,12.7
+2015,4381,4381-2016,"International College of Management, Sydney",22.57
+2015,4382,4382-2016,Australian Guild of Music Education Inc.,83.33
+2015,4383,4383-2016,Holmesglen Institute of TAFE,32.8
+2015,4384,4384-2016,Kaplan Business School,24.31
+2015,4385,4385-2016,Polytechnic West,27.34
+2015,4386,4386-2016,Macleay College,25.1
+2015,4387,4387-2016,Raffles College of Design and Commerce,58.44
+2015,4388,4388-2016,Australian Academy of Music and Performing Arts,23.08
+2015,4389,4389-2016,Cairnmillar Institute School,4.2
+2015,4391,4391-2016,Eynesbury,17.44
+2015,4392,4392-2016,Gestalt Therapy Brisbane,12.77
+2015,4393,4393-2016,MIECAT,13.33
+2015,4394,4394-2016,William Angliss Institute of TAFE,27.49
+2015,4395,4395-2016,Adelaide Central School of Art,18
+2015,4396,4396-2016,LCI Melbourne,21.84
+2015,4401,4401-2016,Whitehouse Institute of Design; Australia,31.18
+2015,4402,4402-2016,Leo Cussen Institute,0
+2015,4405,4405-2016,Australian Institute of Professional Counsellors,39.23
+2015,4406,4406-2016,Canberra Institute of Technology,24.49
+2015,4407,4407-2016,Alphacrucis College,33.74
+2015,4409,4409-2016,Universal Business School Sydney (UBSS),34.03
+2015,4410,4410-2016,Australian Institute of Management SA Division Inc,60.09
+2015,4411,4411-2016,Stotts Colleges,62.21
+2015,4412,4412-2016,Morling College,24.42
+2015,4413,4413-2016,University College London,16.67
+2015,4415,4415-2016,Top Education Institute,10.56
+2015,4417,4417-2016,La Trobe Melbourne,21
+2015,4418,4418-2016,Australian School of Management,30
+2015,4419,4419-2016,National Art School,11.65
+2015,4420,4420-2016,Kent Institute Australia,39.84
+2015,4421,4421-2016,Le Cordon Bleu Australia,12.87
+2015,4423,4423-2016,Tabor College Perth,37.5
+2015,4424,4424-2016,Kaplan Higher Education,27.48
+2015,4425,4425-2016,Australian Institute of Business,23.42
+2015,4426,4426-2016,John Paul ll Institute for Marriage and Family,8.93
+2015,4428,4428-2016,Nan Tien Institute,39.29
+2015,4445,4445-2016,Investment Banking Institute Business School,100
+2015,4450,4450-2016,TAFE Queensland,35.61
+2015,4453,4453-2016,Australasian College of Health and Wellness,47.06
+2015,4458,4458-2016,Australian Institute of Management Education & Training,26.67
+2015,5555,5555-2016,Torrens University Australia,48.22
+2015,7001,7001-2016,Collarts,29.67
+2015,7007,7007-2016,Paramount College of Natural Medicine,38.1
+2015,7014,7014-2016,Jazz Music Institute,8
+2015,7035,7035-2016,Photography Studies College (Melbourne),18.75
+2015,7041,7041-2016,Sydney Institute of Traditional Chinese Medicine,13.45
+2015,7067,7067-2016,West Coast Institute of Training,43.48
+2015,7072,7072-2016,Central Institute of Technology,21.05
+2015,7073,7073-2016,Chisholm Institute,19.28
+2015,7075,7075-2016,TAFE NSW,23.66
+2015,7116,7116-2016,Study Group Australia Pty Ltd,32.7
+2015,7124,7124-2016,Academy of Information Technology,28.33
+2015,7125,7125-2016,Phoenix Institute of Australia Pty Ltd,66.67
+2015,7252,7252-2016,AIPE,53.25
+2015,7338,7338-2016,TAFE SA,21.91
+2016,1019,1019-2017,James Cook University,21.16
+2016,1034,1034-2017,Murdoch University,17.62
+2016,1055,1055-2017,The University of Western Australia,9.03
+2016,1058,1058-2017,University of Wollongong,14.63
+2016,2148,2148-2017,The National Institute of Dramatic Art,9.28
+2016,2154,2154-2017,Federation University Australia,26.33
+2016,2170,2170-2017,Marcus Oldham College,10.78
+2016,2177,2177-2017,Swinburne University of Technology,22.42
+2016,2200,2200-2017,CQUniversity,23.84
+2016,2201,2201-2017,University of Southern Queensland,25.84
+2016,2235,2235-2017,Edith Cowan University,20.4
+2016,2236,2236-2017,Curtin University,15.42
+2016,2241,2241-2017,University of Canberra,17.24
+2016,2252,2252-2017,Avondale College of Higher Education,20.3
+2016,2271,2271-2017,"Australian Film, Television and Radio School",7.89
+2016,3001,3001-2017,Charles Darwin University,30.84
+2016,3003,3003-2017,Bond University,7.04
+2016,3004,3004-2017,Western Sydney University,15.22
+2016,3005,3005-2017,Charles Sturt University,20.81
+2016,3006,3006-2017,Australian Catholic University,15.48
+2016,3007,3007-2017,Victoria University,19.95
+2016,3010,3010-2017,The University of Adelaide,9.68
+2016,3013,3013-2017,University of New South Wales,6.91
+2016,3014,3014-2017,The University of Newcastle,15.71
+2016,3016,3016-2017,University of Technology Sydney,8.45
+2016,3019,3019-2017,The University of Queensland,8.91
+2016,3020,3020-2017,La Trobe University,16.36
+2016,3025,3025-2017,Macquarie University,10.63
+2016,3027,3027-2017,University of South Australia,15.66
+2016,3029,3029-2017,Flinders University,17.52
+2016,3030,3030-2017,Deakin University,14.93
+2016,3032,3032-2017,Griffith University,16.23
+2016,3033,3033-2017,The Australian National University,9.29
+2016,3034,3034-2017,RMIT University,10.99
+2016,3035,3035-2017,Monash University,7.78
+2016,3036,3036-2017,The University of Melbourne,5.6
+2016,3038,3038-2017,Southern Cross University,26.74
+2016,3039,3039-2017,The University of New England,23.05
+2016,3040,3040-2017,The University of Sydney,7.27
+2016,3042,3042-2017,Queensland University of Technology,11.5
+2016,3043,3043-2017,University of the Sunshine Coast,20.04
+2016,3044,3044-2017,The University of Notre Dame Australia,10.87
+2016,3045,3045-2017,University of Tasmania,29.83
+2016,4331,4331-2017,University of Divinity,24.83
+2016,4332,4332-2017,Sydney College of Divinity,22.67
+2016,4333,4333-2017,Christian Heritage College,27.68
+2016,4334,4334-2017,Tabor Adelaide,27.13
+2016,4335,4335-2017,Australian College of Theology,21.02
+2016,4336,4336-2017,Australian College of Applied Psychology,30.68
+2016,4337,4337-2017,Eastern College Australia,26.32
+2016,4338,4338-2017,Moore Theological College,19.42
+2016,4339,4339-2017,Holmes Institute,25.09
+2016,4340,4340-2017,Monash College,14.45
+2016,4341,4341-2017,Harvest Bible College,22.16
+2016,4343,4343-2017,Australian Institute of Music,25
+2016,4344,4344-2017,South Aust Institute of Business & Technology,27.42
+2016,4346,4346-2017,Excelsia College,18.09
+2016,4347,4347-2017,Tabor College NSW,52.63
+2016,4348,4348-2017,Deakin College,25.44
+2016,4349,4349-2017,Sydney Institute of Business and Technology,16.24
+2016,4350,4350-2017,Queensland Institute of Business and Technology,17.55
+2016,4352,4352-2017,The Australian College of Physical Education,31.06
+2016,4355,4355-2017,Adelaide College of Divinity,19.05
+2016,4357,4357-2017,Blue Mountains Intl Hotel Management School,85.71
+2016,4359,4359-2017,The College of Law,16.08
+2016,4360,4360-2017,Perth Bible College,23.81
+2016,4361,4361-2017,Endeavour College of Natural Health,30.3
+2016,4362,4362-2017,International College of Hotel Management,14.95
+2016,4363,4363-2017,Northern Melbourne Institute of TAFE,23.43
+2016,4364,4364-2017,Edith Cowan College,18.16
+2016,4365,4365-2017,Curtin College,17.77
+2016,4366,4366-2017,Box Hill Institute,27.67
+2016,4367,4367-2017,Melbourne Institute of Technology,21.27
+2016,4368,4368-2017,Campion College,9.09
+2016,4370,4370-2017,Tabor College Tasmania,43.75
+2016,4371,4371-2017,SAE Creative Media Institute,25.71
+2016,4374,4374-2017,Carnegie Mellon University Australia,2.17
+2016,4375,4375-2017,Think: Colleges Pty Ltd,33.88
+2016,4377,4377-2017,UOW College,17.27
+2016,4378,4378-2017,JMC Academy,30.1
+2016,4380,4380-2017,UTS:INSEARCH,12.71
+2016,4381,4381-2017,"International College of Management, Sydney",20.26
+2016,4382,4382-2017,Australian Guild of Music Education Inc.,0
+2016,4383,4383-2017,Holmesglen Institute of TAFE,31.7
+2016,4384,4384-2017,Kaplan Business School,23.91
+2016,4385,4385-2017,Polytechnic West,80.6
+2016,4386,4386-2017,Macleay College,26.97
+2016,4387,4387-2017,Raffles College of Design and Commerce,16.28
+2016,4388,4388-2017,Australian Academy of Music and Performing Arts,11.11
+2016,4389,4389-2017,Cairnmillar Institute School,11.76
+2016,4391,4391-2017,Eynesbury,22.59
+2016,4392,4392-2017,Gestalt Therapy Brisbane,17.02
+2016,4393,4393-2017,MIECAT,14.29
+2016,4394,4394-2017,William Angliss Institute of TAFE,23.17
+2016,4395,4395-2017,Adelaide Central School of Art,31.37
+2016,4396,4396-2017,LCI Melbourne,30.15
+2016,4401,4401-2017,Whitehouse Institute of Design; Australia,20.74
+2016,4402,4402-2017,Leo Cussen Institute,0
+2016,4405,4405-2017,Australian Institute of Professional Counsellors,44.95
+2016,4406,4406-2017,Canberra Institute of Technology,25
+2016,4407,4407-2017,Alphacrucis College,37.26
+2016,4409,4409-2017,Universal Business School Sydney (UBSS),35.09
+2016,4411,4411-2017,Stotts Colleges,53.11
+2016,4412,4412-2017,Morling College,29.57
+2016,4413,4413-2017,University College London,7.69
+2016,4415,4415-2017,Top Education Institute,15.22
+2016,4417,4417-2017,La Trobe Melbourne,29.58
+2016,4418,4418-2017,Australian School of Management,98.04
+2016,4419,4419-2017,National Art School,11.43
+2016,4420,4420-2017,Kent Institute Australia,45.71
+2016,4421,4421-2017,Le Cordon Bleu Australia,12.73
+2016,4424,4424-2017,Kaplan Higher Education,25.98
+2016,4425,4425-2017,Australian Institute of Business,24.09
+2016,4426,4426-2017,John Paul ll Institute for Marriage and Family,3.85
+2016,4428,4428-2017,Nan Tien Institute,36.84
+2016,4450,4450-2017,TAFE Queensland,22.14
+2016,4453,4453-2017,Australasian College of Health and Wellness,75
+2016,4458,4458-2017,Australian Institute of Management Education & Training,45.78
+2016,4468,4468-2017,South Metropolitan TAFE,24.19
+2016,5555,5555-2017,Torrens University Australia,23.86
+2016,6043,6043-2017,The Cairnmillar Institute,0.91
+2016,7001,7001-2017,Collarts,33.46
+2016,7007,7007-2017,Paramount College of Natural Medicine,37.5
+2016,7014,7014-2017,Jazz Music Institute,11.76
+2016,7035,7035-2017,Photography Studies College (Melbourne),30
+2016,7041,7041-2017,Sydney Institute of Traditional Chinese Medicine,16.67
+2016,7067,7067-2017,West Coast Institute of Training,100
+2016,7072,7072-2017,Central Institute of Technology,44.86
+2016,7073,7073-2017,Chisholm Institute,29.35
+2016,7075,7075-2017,TAFE NSW,28.81
+2016,7116,7116-2017,Study Group Australia Pty Ltd,28.96
+2016,7124,7124-2017,Academy of Information Technology,20.73
+2016,7221,7221-2017,VIT (Victorian Institute of Technology),26.27
+2016,7252,7252-2017,AIPE,100
+2016,7338,7338-2017,TAFE SA,43.59
+2016,8071,8071-2017,North Metropolitan TAFE,10.89
