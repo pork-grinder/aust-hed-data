@@ -1,0 +1,178 @@
+---
+title: "Prepare Australian higher education data for analysis"
+output: html_notebook
+---
+
+```{r echo = false}
+library(dplyr)
+library(tidyr)
+library(readr)
+library(reshape2)
+library(glmnet)
+library(ggplot2)
+library(pca3d)
+```
+
+
+### Import and join .csv documents and engineer basic features
+I purchased historical higher education data from the Australian Department of Education and Training (DET). This data was provided to me as a set of .csv files that I would need to join and mutate in order to perform meaningful analysis.  
+The primary time-bound features of interest are student to staff ratio, sessional staff proportion, student success rates, student attrition rates, proportion of students that are international students and postgraduate students, overall student counts, and measures of provider specialisation in particular areas of study (measured by engineered features 'entropy' and 'gini impurity'). Primary static features relate to provider type, affiliation, ownership and profit status.
+
+```{r, message = FALSE}
+#load student success time series data (domestic, international and overall)
+success_all <- read_csv("19_381_Piskun_Onshore_success_rate_overall.csv") %>%
+  rename(success_all = "success_rate")
+success_dom <- read_csv("19_381_Piskun_Onshore_success_domestic.csv") %>%
+  rename(success_dom = "success_rate") %>%
+  select(code_year, success_dom)
+success_int <- read_csv("19_381_Piskun_Onshore_success_international.csv") %>%
+  rename(success_int = "success_rate") %>%
+  select(code_year, success_int)
+  
+#load student attrition time series data (domestic, international and overall)
+attrition_all <- read_csv("19_381_Piskun_Onshore_attrition_rate_overall.csv") %>%
+  rename(attrition_all = "attrition_rate") %>%
+  select(code_year, attrition_all)
+attrition_dom <- read_csv("19_381_Piskun_Onshore_attrition_domestic.csv") %>%
+  rename(attrition_dom = "attrition_rate") %>%
+  select(code_year, attrition_dom)
+attrition_int <- read_csv("19_381_Piskun_Onshore_attrition_international.csv") %>%
+  rename(attrition_int = "attrition_rate") %>%
+    select(code_year, attrition_int)
+  
+# load static provider data
+provider <- read_csv("Provider.csv") %>%
+  select(-provider_name)
+
+# load staff-related time series data
+staff <- read_csv("19_381_Piskun_Academic_staff.csv") %>%
+  rename(all_fte = "tab1_academic_FTE", salaried_fte = "tab2_academic_FTE", 
+         senior_fte = "tab3_senior_FTE", senior_headcount = "tab3_senior_headcount_mod") %>%
+  mutate(sessional_fte = all_fte - salaried_fte) %>%
+  mutate(sessional_prop = sessional_fte/all_fte, senior_prop = senior_fte/all_fte) %>%
+  select(code_year, all_fte, salaried_fte, senior_fte, senior_headcount,
+         sessional_fte, sessional_prop, senior_prop)
+
+# Load equivalent full-time student load (EFTSL) time series data
+eftsl <- read_csv("19_381_Piskun_Onshore_EFTSL.csv")
+
+# mutate EFTSL data to produce EFTSL sums and international students proportions
+citizenship_eftsl <- eftsl %>%
+  group_by(ref_year, provider_code, citizenship) %>%
+  summarise(eftsl_citizenship = sum(EFTSL)) %>% ungroup() %>%
+  pivot_wider(names_from = citizenship, values_from = eftsl_citizenship) %>%
+  rename(dom_eftsl = Domestic, int_eftsl = International) %>%
+  mutate(dom_eftsl = replace_na(dom_eftsl, 0), int_eftsl = replace_na(int_eftsl, 0)) %>%
+  mutate(eftsl = round(dom_eftsl + int_eftsl), int_prop = round(int_eftsl/(dom_eftsl + int_eftsl), 2)) %>%
+  select(-c('dom_eftsl', 'int_eftsl'))
+
+# mutate EFTSL data to produce postgraduate proportions
+level_eftsl <- eftsl %>%
+  group_by(ref_year, provider_code, Course_level) %>%
+  summarise(eftsl_level = sum(EFTSL)) %>% ungroup() %>%
+  pivot_wider(names_from = Course_level, values_from = eftsl_level) %>%
+  rename(under_eftsl = 'Undergrad', post_eftsl = 'Postgrad by course') %>%
+  mutate(under_eftsl = replace_na(under_eftsl, 0), post_eftsl = replace_na(post_eftsl, 0)) %>%
+  mutate(postgrad_prop = round(post_eftsl/(under_eftsl + post_eftsl), 2)) %>%
+  select(-c('under_eftsl', 'post_eftsl'))
+
+# mutate EFTSL data to produce primary Broad Field of Education (BFOE), primary BFOE proportion, BFOE entropy and BFOE gini impurity
+bfoe_eftsl <- eftsl %>%
+  
+  # aggregate at BFOE level
+  group_by(ref_year, provider_code, primary_BFOE) %>%
+  summarise(eftsl_bfoe = sum(EFTSL)) %>% ungroup() %>%
+  
+  # pivot wider and replace NAs with 0, in order to ensure all providers have a value for all BFOEs
+  pivot_wider(names_from = primary_BFOE, values_from = eftsl_bfoe) %>%
+  rename(nat_phys_sci = '01 Natural and Physical Sciences',
+         info_tech = '02 Information Technology',
+         engineering = '03 Engineering and Related Technologies',
+         arch_build = '04 Architecture and Building',
+         agri_env = '05 Agriculture, Environmental and Related Studies',
+         health = '06 Health',
+         education = '07 Education',
+         mge_com = '08 Management and Commerce',
+         soc_cult = '09 Society and Culture',
+         creat_art = '10 Creative Arts',
+         food_hosp = '11 Food, Hospitality and Personal Services',
+         mixed = '12 Mixed Field Programmes',
+         non_award = '13 Non-award courses') %>%
+  replace(is.na(.), 0) %>%
+  
+  # return to long format to implement column-wise aggregate calculations
+  pivot_longer(cols = nat_phys_sci:non_award,
+               names_to = 'bfoe',
+               values_to = 'eftsl') %>%
+  group_by(ref_year, provider_code) %>%
+  mutate(eftsl_sum = sum(eftsl),
+         max_bfoe = eftsl == max(eftsl)) %>% ungroup() %>%
+  mutate(eftsl_prop = round(eftsl/eftsl_sum, 5)) %>%
+  mutate(pre_entropy = -1*eftsl_prop*log2(eftsl_prop),
+         pre_GINI = eftsl_prop*(1-eftsl_prop)) %>% 
+  replace(is.na(.), 0) %>%
+  group_by(ref_year, provider_code) %>%
+  mutate(bfoe_entropy = sum(pre_entropy),
+         bfoe_gini_impurity = sum(pre_GINI)) %>%
+  filter(max_bfoe == TRUE) %>%
+  select(-c(eftsl, max_bfoe, pre_entropy, pre_GINI, eftsl_sum)) %>%
+  rename(first_bfoe = bfoe,
+         first_bfoe_prop = eftsl_prop)
+
+    # join data and create staff/eftsl variables
+df <- success_all %>%
+  full_join(success_dom, by = "code_year") %>%
+  full_join(success_int, by = "code_year") %>%
+  full_join(attrition_all, by = "code_year") %>%
+  full_join(attrition_dom, by = "code_year") %>%
+  full_join(attrition_int, by = "code_year") %>%
+  full_join(staff, by = "code_year") %>%
+left_join(provider, by = "provider_code") %>%
+select(provider_name, provider_code, prv, 
+       affiliation, affil_status, profit, type, ownership, 
+       code_year, ref_year, 
+       success_all, success_dom, success_int,
+       attrition_all, attrition_dom, attrition_int,
+       all_fte, salaried_fte, senior_fte, senior_headcount, 
+       sessional_fte, sessional_prop, senior_prop) %>%
+  filter(!is.na(prv)) %>%
+  mutate(affiliation = replace_na(affiliation, "NUHEP"),
+         affil_status = replace_na(affil_status, "current")) %>%
+  filter(ref_year > 2011) %>%
+  left_join(citizenship_eftsl, by = c('provider_code', 'ref_year')) %>%
+  left_join(level_eftsl, by = c('provider_code', 'ref_year')) %>%
+  left_join(bfoe_eftsl, by = c('provider_code', 'ref_year')) %>%
+  mutate(ssr_all = eftsl/all_fte,
+         ssr_salaried = eftsl/salaried_fte) %>%
+  filter(ref_year != '2012')
+
+
+# filter out providers that closed before 2017
+still_exists <- df %>%
+  filter(ref_year == '2017') %>%
+  select(prv)
+df <- df %>%
+inner_join(still_exists, by = 'prv')
+
+```
+
+### Inspect header of higher education data frame object
+We now have a data frame for analysis---however, as data provided by DET was incomplete for non-university higher education providers (NUHEPs) it will  need to be supplemented with additional data obtained elsewhere, or else imputed. The first six rows of this dataframe are displayed below.
+```{r message = FALSE}
+head(df)
+```
+
+### Check for prevalence of missing values
+As can be seen below, missing values are most prevalent in staff data for non-university providers---this is because DET does not own the staff data for providers that do not receive Australian Government funding (the data is owned by TEQSA, Australia's higher education regulator, which is far less open with data than its parent agency). Unfortunately this means the staff data are 'missing not at random', which makes imputation problematic. Note that, while international/domestic attrition and success rates are missing from many observations, this is due primarily to a subset of providers not teaching courses to international or domestic students.   
+I will deal with missing data on a case-by-case basis in subsequent analysis.
+```{r}
+df %>%
+  group_by(type) %>%
+  summarise_all(funs(sum(is.na(.))))
+```
+
+### Output higher education dataframe as a new .csv for use in subsequent analysis
+```{r}
+write.csv(df, 'higher_ed_data_joined.csv')
+```
+
