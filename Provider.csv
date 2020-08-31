@@ -1,0 +1,151 @@
+provider_name,provider_code,prv,affiliation,affil_status,profit,type,ownership,TEQSA_type
+James Cook University,1019,PRV12077,IRU,current,not_for_profit,university,public,university
+Murdoch University,1034,PRV12163,IRU,current,not_for_profit,university,public,university
+The University of Western Australia,1055,PRV12169,Go8,current,not_for_profit,university,public,university
+University of Wollongong,1058,PRV12062,non_aligned,current,not_for_profit,university,public,university
+The National Institute of Dramatic Art,2148,PRV12052,,,not_for_profit,other,private,not_for_profit
+Federation University Australia,2154,PRV12151,RUN,current,not_for_profit,university,public,university
+Marcus Oldham College,2170,PRV12133,,,not_for_profit,other,private,not_for_profit
+Swinburne University of Technology,2177,PRV12148,non_aligned,current,not_for_profit,university,public,university
+Central Queensland University,2200,PRV12073,RUN,current,not_for_profit,university,public,university
+University of Southern Queensland,2201,PRV12081,RUN,current,not_for_profit,university,public,university
+Edith Cowan University,2235,PRV12160,non_aligned,current,not_for_profit,university,public,university
+Curtin University,2236,PRV12158,ATN,current,not_for_profit,university,public,university
+University of Canberra,2241,PRV12003,non_aligned,current,not_for_profit,university,public,university
+Avondale College Limited,2252,PRV12015,,,not_for_profit,faith_based,private,not_for_profit
+"Australian Film, Television and Radio School",2271,PRV12011,,,not_for_profit,government,public,not_for_profit
+Charles Darwin University,3001,PRV12069,IRU,current,not_for_profit,university,public,university
+Bond University Limited,3003,PRV12072,non_aligned,current,not_for_profit,university,private,university
+Western Sydney University,3004,PRV12061,IRU,current,not_for_profit,university,public,university
+Charles Sturt University,3005,PRV12018,RUN,current,not_for_profit,university,public,university
+Australian Catholic University Limited,3006,PRV12008,non_aligned,current,not_for_profit,university,public,university
+Victoria University,3007,PRV12152,non_aligned,current,not_for_profit,university,public,university
+The University of Adelaide,3010,PRV12105,Go8,current,not_for_profit,university,public,university
+University of New South Wales,3013,PRV12055,Go8,current,not_for_profit,university,public,university
+University of Newcastle,3014,PRV12056,IRU,former,not_for_profit,university,public,university
+University of Technology Sydney,3016,PRV12060,ATN,current,not_for_profit,university,public,university
+The University of Queensland,3019,PRV12080,Go8,current,not_for_profit,university,public,university
+La Trobe University,3020,PRV12132,IRU,current,not_for_profit,university,public,university
+Macquarie University,3025,PRV12032,IRU,former,not_for_profit,university,public,university
+University of South Australia,3027,PRV12107,ATN,current,not_for_profit,university,public,university
+Flinders University,3029,PRV12097,IRU,current,not_for_profit,university,public,university
+Deakin University,3030,PRV12124,non_aligned,current,not_for_profit,university,public,university
+Griffith University,3032,PRV12076,IRU,current,not_for_profit,university,public,university
+Australian National University,3033,PRV12002,Go8,current,not_for_profit,university,public,university
+Royal Melbourne Institute of Technology,3034,PRV12145,ATN,current,not_for_profit,university,public,university
+Monash University,3035,PRV12140,Go8,current,not_for_profit,university,public,university
+The University of Melbourne,3036,PRV12150,Go8,current,not_for_profit,university,public,university
+Southern Cross University,3038,PRV12043,RUN,current,not_for_profit,university,public,university
+University of New England,3039,PRV12054,RUN,current,not_for_profit,university,public,university
+The University of Sydney,3040,PRV12057,Go8,current,not_for_profit,university,public,university
+Queensland University of Technology,3042,PRV12079,ATN,former,not_for_profit,university,public,university
+University of the Sunshine Coast,3043,PRV12082,RUN,current,not_for_profit,university,public,university
+The University of Notre Dame Australia,3044,PRV12170,non_aligned,current,not_for_profit,university,private,university
+University of Tasmania,3045,PRV12110,non_aligned,current,not_for_profit,university,public,university
+University of Divinity,4331,PRV12135,non_aligned,current,not_for_profit,university,public,university
+Sydney College of Divinity Ltd,4332,PRV12045,,,not_for_profit,faith_based,private,not_for_profit
+Christian Heritage College,4333,PRV12074,,,not_for_profit,faith_based,private,not_for_profit
+Tabor College Incorporated,4334,PRV12103 ,,,not_for_profit,faith_based,private,not_for_profit
+Australian College of Theology Limited,4335,PRV12010,,,not_for_profit,faith_based,private,not_for_profit
+Navitas Professional Institute Pty Ltd,4336,PRV12009,,,for_profit,for_profit,private,for_profit
+Eastern College Australia Incorporated,4337,PRV12149,,,not_for_profit,other,private,not_for_profit
+Moore Theological College Council,4338,PRV12033,,,not_for_profit,faith_based,private,not_for_profit
+Holmes Institute Pty Ltd as Trustee for Holmes Institute Trust,4339,PRV12128,,,for_profit,for_profit,private,for_profit
+Monash College Pty Ltd,4340,PRV12139,,,not_for_profit,pathway,private,not_for_profit
+Harvest Bible College Ltd,4341,PRV12127,,,not_for_profit,faith_based,private,not_for_profit
+Australian Lutheran College,4342,PRV12092,,,not_for_profit,faith_based,private,not_for_profit
+The Australian Institute of Music Limited,4343,PRV12050,,,not_for_profit,other,private,not_for_profit
+South Australian Institute of Business and Technology Pty Ltd,4344,PRV12102,,,for_profit,pathway,private,for_profit
+Excelsia College,4346,PRV12064,,,not_for_profit,faith_based,private,not_for_profit
+Australian College of Christian Studies Ltd,4347,PRV12047,,,not_for_profit,faith_based,private,not_for_profit
+Melbourne Institute of Business and Technology Pty Ltd,4348,PRV12137,,,for_profit,pathway,private,for_profit
+Sydney Institute of Business and Technology Pty Ltd,4349,PRV12046,,,for_profit,pathway,private,for_profit
+Queensland Institute of Business & Technology Pty Ltd,4350,PRV12078,,,for_profit,pathway,private,for_profit
+ACPE Limited,4352,PRV12066,,,for_profit,for_profit,private,for_profit
+Adelaide College of Divinity Incorporated,4355,PRV12088,,,not_for_profit,faith_based,private,not_for_profit
+Blue Mountains International Hotel Management School Pty Limited,4357,PRV12016,,,for_profit,for_profit,private,for_profit
+The College of Law Limited,4359,PRV12048,,,not_for_profit,other,private,not_for_profit
+Perth Bible College Inc,4360,PRV12165,,,not_for_profit,faith_based,private,not_for_profit
+Australian College of Natural Medicine Pty Ltd,4361,PRV12070,,,for_profit,for_profit,private,for_profit
+ICHM Pty Ltd,4362,PRV12099,,,for_profit,for_profit,private,for_profit
+Melbourne Polytechnic,4363,PRV12142,,,not_for_profit,TAFE,public,TAFE
+Edith Cowan College Pty Ltd,4364,PRV12166,,,for_profit,pathway,private,for_profit
+Colleges of Business and Technology (WA) Pty Ltd,4365,PRV12157,,,for_profit,pathway,private,for_profit
+Box Hill Institute,4366,PRV12117,,,not_for_profit,TAFE,public,TAFE
+Melbourne Institute of Technology Pty Ltd,4367,PRV12138,,,for_profit,for_profit,private,for_profit
+Campion Institute Limited,4368,PRV12017,,,not_for_profit,faith_based,private,not_for_profit
+Tabor College Tasmania Inc.,4370,PRV12109,,,not_for_profit,faith_based,private,not_for_profit
+SAE Institute Pty Limited,4371,PRV12042,,,for_profit,for_profit,private,for_profit
+Jansen Newman Institute Pty. Limited,4373,PRV12028,,,for_profit,for_profit,private,for_profit
+Carnegie Mellon University,4374,PRV12095,non_aligned,current,not_for_profit,university,public,university
+Think: Colleges Pty Ltd,4375,PRV12058,,,for_profit,for_profit,private,for_profit
+UOWC Ltd,4377,PRV12027,,,for_profit,pathway,private,for_profit
+JMC Pty. Limited,4378,PRV12029,,,for_profit,for_profit,private,for_profit
+INSEARCH Limited,4380,PRV12022,,,not_for_profit,pathway,private,not_for_profit
+"International College of Management, Sydney Pty. Limited",4381,PRV12025,,,for_profit,for_profit,private,for_profit
+Australian Guild of Music Education Inc.,4382,PRV12114,,,not_for_profit,other,private,not_for_profit
+Holmesglen Institute of TAFE,4383,PRV12129,,,not_for_profit,TAFE,public,TAFE
+Kaplan Business School Pty Limited,4384,PRV12094,,,for_profit,for_profit,private,for_profit
+Polytechnic West,4385,PRV12167,,,not_for_profit,TAFE,public,TAFE
+Macleay College Pty Limited,4386,PRV12031,,,for_profit,for_profit,private,for_profit
+Raffles College Pty Ltd,4387,PRV12039,,,for_profit,for_profit,private,for_profit
+Australian Academy of Music and Performing Arts,4388,PRV12026,,,not_for_profit,other,private,not_for_profit
+The Cairnmillar Institute School of Psychology Counselling and Psychotherapy Pty Ltd,4389,PRV12119,,,for_profit,for_profit,private,for_profit
+Educational Enterprises Australia Pty Ltd,4391,PRV12096,,,for_profit,for_profit,private,for_profit
+Gestalt Therapy Brisbane Pty Ltd,4392,PRV12075,,,for_profit,for_profit,private,for_profit
+The MIECAT Institute Inc.,4393,PRV12136,,,not_for_profit,other,private,not_for_profit
+William Angliss Institute of TAFE,4394,PRV12153,,,not_for_profit,TAFE,public,TAFE
+Adelaide Central School of Art Incorporated,4395,PRV12087,,,not_for_profit,other,private,not_for_profit
+Academy of Design Australia Pty Ltd,4396,PRV12113,,,for_profit,for_profit,private,for_profit
+Whitehouse Institute Pty Ltd,4401,PRV12065,,,for_profit,for_profit,private,for_profit
+Leo Cussen Institute,4402,PRV12155,,,not_for_profit,other,private,not_for_profit
+Harvest West Bible College Inc,4403,PRV12161,,,not_for_profit,faith_based,private,not_for_profit
+Carrick Higher Education Pty Ltd,4404,PRV12154,,,for_profit,for_profit,private,for_profit
+Australian Institute of Professional Counsellors Pty Ltd As Trustee For AIPC Trust,4405,PRV12083,,,for_profit,for_profit,private,for_profit
+Canberra Institute of Technology,4406,PRV12004,,,not_for_profit,TAFE,public,TAFE
+Alphacrucis College Limited,4407,PRV12006,,,not_for_profit,faith_based,private,not_for_profit
+Group Colleges Australia Pty Ltd,4409,PRV12021,,,for_profit,for_profit,private,for_profit
+Australian Institute of Management South Australian Division Incorporated,4410,PRV12091,,,not_for_profit,prof_body,private,not_for_profit
+Acknowledge Education Pty Ltd,4411,PRV12146,,,for_profit,for_profit,private,for_profit
+Morling College Ltd,4412,PRV12034,,,not_for_profit,faith_based,private,not_for_profit
+University College London,4413,PRV12106,non_aligned,current,not_for_profit,university,public,university
+Top Education Group Limited,4415,PRV12059,,,for_profit,for_profit,private,for_profit
+Navitas Bundoora Pty Ltd,4417,PRV12186,,,for_profit,pathway,private,for_profit
+Australian School of Management Pty Ltd,4418,PRV12156,,,for_profit,for_profit,private,for_profit
+National Art School,4419,PRV12036,,,not_for_profit,other,private,not_for_profit
+Kent Institute Australia Pty Ltd,4420,PRV12051,,,for_profit,for_profit,private,for_profit
+Le Cordon Bleu Australia Pty Limited,4421,PRV12100,,,for_profit,for_profit,private,for_profit
+Tabor College Incorporated (WA),4423,PRV12168,,,not_for_profit,faith_based,private,not_for_profit
+Kaplan Higher Education Pty Ltd,4424,PRV12030,,,for_profit,for_profit,private,for_profit
+Australian Institute of Business Pty Ltd,4425,PRV12090,,,for_profit,for_profit,private,for_profit
+"John Paul II Institute for Marriage and Family, Melbourne",4426,PRV12130,,,not_for_profit,faith_based,private,not_for_profit
+Vose College,4427,PRV12202,,,not_for_profit,other,private,not_for_profit
+Nan Tien Institute Limited,4428,PRV12035,,,not_for_profit,faith_based,private,not_for_profit
+Relationships Australia (NSW),4429,PRV12040,,,not_for_profit,other,private,not_for_profit
+Wentworth Institute of Higher Education Pty Ltd,4434,PRV12063,,,for_profit,for_profit,private,for_profit
+Investment Banking Institute Business School Pty Ltd,4445,PRV12188,,,for_profit,for_profit,private,for_profit
+TAFE Queensland,4450,PRV13003,,,not_for_profit,TAFE,public,TAFE
+Australasian College of Health and Wellness,4453,PRV13002,,,for_profit,for_profit,private,for_profit
+S P Jain School of Global Management Pty Limited,4455,PRV12041,,,for_profit,for_profit,private,for_profit
+Australian Institute of Management Education and Training Pty Limited,4458,PRV12071,,,for_profit,for_profit,private,for_profit
+Australian College of Nursing Ltd,4464,PRV14001,,,not_for_profit,other,private,not_for_profit
+South Metropolitan TAFE,4468,PRV14272,,,not_for_profit,TAFE,public,TAFE
+Torrens University Australia Ltd,5555,PRV12209,non_aligned,current,for_profit,university,private,university
+The Cairnmillar Institute,6043,PRV14003,,,not_for_profit,other,private,not_for_profit
+BBI The Australian Institute of Theological Education,6044,PRV14082,,,not_for_profit,faith_based,private,not_for_profit
+Australian College of the Arts Pty Ltd,7001,PRV12187,,,for_profit,for_profit,private,for_profit
+Jazz Music Institute Pty Ltd,7014,PRV12084,,,for_profit,for_profit,private,for_profit
+Photography Holdings Pty Ltd,7035,PRV12200,,,for_profit,for_profit,private,for_profit
+Sydney Institute of Health Sciences Pty. Limited,7041,PRV12177,,,not_for_profit,other,private,not_for_profit
+West Coast Institute of Training,7067,PRV13004,,,not_for_profit,TAFE,public,TAFE
+Central Institute of Technology,7072,PRV14018,,,not_for_profit,TAFE,public,TAFE
+Chisholm Institute,7073,PRV12123,,,not_for_profit,TAFE,public,TAFE
+Technical and Further Education Commission,7075,PRV12049,,,not_for_profit,TAFE,public,TAFE
+Study Group Australia Pty Limited,7116,PRV12044,,,for_profit,for_profit,private,for_profit
+Academy of Information Technology Pty Ltd,7124,PRV12005,,,for_profit,for_profit,private,for_profit
+Phoenix Institute of Australia Pty Ltd,7125,PRV12144,,,for_profit,for_profit,private,for_profit
+Proteus Technologies Pty Ltd,7197,PRV14055,,,for_profit,for_profit,private,for_profit
+Victorian Institute of Technology Pty Ltd,7221,PRV14007,,,for_profit,for_profit,private,for_profit
+Australian Institute of Professional Education Pty Ltd,7252,PRV13001,,,for_profit,for_profit,private,for_profit
+TAFE SA,7338,PRV14002,,,not_for_profit,TAFE,public,TAFE
+North Metropolitan TAFE,8071,PRV14273,,,not_for_profit,TAFE,public,TAFE
