@@ -1,48 +1,48 @@
 provider_name,provider_code,prv,affiliation,affil_status,profit,type,ownership,TEQSA_type
-James Cook University,1019,PRV12077,IRU,current,not_for_profit,university,public,university
-Murdoch University,1034,PRV12163,IRU,current,not_for_profit,university,public,university
-The University of Western Australia,1055,PRV12169,Go8,current,not_for_profit,university,public,university
-University of Wollongong,1058,PRV12062,non_aligned,current,not_for_profit,university,public,university
+Australian Catholic University Limited,3006,PRV12008,non_aligned,current,not_for_profit,university,public,university
+Australian National University,3033,PRV12002,Go8,current,not_for_profit,university,public,university
+Bond University Limited,3003,PRV12072,non_aligned,current,not_for_profit,university,private,university
+Carnegie Mellon University,4374,PRV12095,non_aligned,current,not_for_profit,university,private,university
 The National Institute of Dramatic Art,2148,PRV12052,,,not_for_profit,other,private,not_for_profit
-Federation University Australia,2154,PRV12151,RUN,current,not_for_profit,university,public,university
-Marcus Oldham College,2170,PRV12133,,,not_for_profit,other,private,not_for_profit
-Swinburne University of Technology,2177,PRV12148,non_aligned,current,not_for_profit,university,public,university
 Central Queensland University,2200,PRV12073,RUN,current,not_for_profit,university,public,university
-University of Southern Queensland,2201,PRV12081,RUN,current,not_for_profit,university,public,university
-Edith Cowan University,2235,PRV12160,non_aligned,current,not_for_profit,university,public,university
+Marcus Oldham College,2170,PRV12133,,,not_for_profit,other,private,not_for_profit
+Charles Darwin University,3001,PRV12069,IRU,current,not_for_profit,university,public,university
+Charles Sturt University,3005,PRV12018,RUN,current,not_for_profit,university,public,university
 Curtin University,2236,PRV12158,ATN,current,not_for_profit,university,public,university
-University of Canberra,2241,PRV12003,non_aligned,current,not_for_profit,university,public,university
+Deakin University,3030,PRV12124,non_aligned,current,not_for_profit,university,public,university
+Edith Cowan University,2235,PRV12160,non_aligned,current,not_for_profit,university,public,university
+Federation University Australia,2154,PRV12151,RUN,current,not_for_profit,university,public,university
 Avondale College Limited,2252,PRV12015,,,not_for_profit,faith_based,private,not_for_profit
 "Australian Film, Television and Radio School",2271,PRV12011,,,not_for_profit,government,public,not_for_profit
-Charles Darwin University,3001,PRV12069,IRU,current,not_for_profit,university,public,university
-Bond University Limited,3003,PRV12072,non_aligned,current,not_for_profit,university,private,university
-Western Sydney University,3004,PRV12061,IRU,current,not_for_profit,university,public,university
-Charles Sturt University,3005,PRV12018,RUN,current,not_for_profit,university,public,university
-Australian Catholic University Limited,3006,PRV12008,non_aligned,current,not_for_profit,university,public,university
-Victoria University,3007,PRV12152,non_aligned,current,not_for_profit,university,public,university
-The University of Adelaide,3010,PRV12105,Go8,current,not_for_profit,university,public,university
-University of New South Wales,3013,PRV12055,Go8,current,not_for_profit,university,public,university
-University of Newcastle,3014,PRV12056,IRU,former,not_for_profit,university,public,university
-University of Technology Sydney,3016,PRV12060,ATN,current,not_for_profit,university,public,university
-The University of Queensland,3019,PRV12080,Go8,current,not_for_profit,university,public,university
+Flinders University,3029,PRV12097,IRU,current,not_for_profit,university,public,university
+Griffith University,3032,PRV12076,IRU,current,not_for_profit,university,public,university
+James Cook University,1019,PRV12077,IRU,current,not_for_profit,university,public,university
 La Trobe University,3020,PRV12132,IRU,current,not_for_profit,university,public,university
 Macquarie University,3025,PRV12032,IRU,former,not_for_profit,university,public,university
-University of South Australia,3027,PRV12107,ATN,current,not_for_profit,university,public,university
-Flinders University,3029,PRV12097,IRU,current,not_for_profit,university,public,university
-Deakin University,3030,PRV12124,non_aligned,current,not_for_profit,university,public,university
-Griffith University,3032,PRV12076,IRU,current,not_for_profit,university,public,university
-Australian National University,3033,PRV12002,Go8,current,not_for_profit,university,public,university
-Royal Melbourne Institute of Technology,3034,PRV12145,ATN,current,not_for_profit,university,public,university
 Monash University,3035,PRV12140,Go8,current,not_for_profit,university,public,university
-The University of Melbourne,3036,PRV12150,Go8,current,not_for_profit,university,public,university
-Southern Cross University,3038,PRV12043,RUN,current,not_for_profit,university,public,university
-University of New England,3039,PRV12054,RUN,current,not_for_profit,university,public,university
-The University of Sydney,3040,PRV12057,Go8,current,not_for_profit,university,public,university
+Murdoch University,1034,PRV12163,IRU,current,not_for_profit,university,public,university
 Queensland University of Technology,3042,PRV12079,ATN,former,not_for_profit,university,public,university
-University of the Sunshine Coast,3043,PRV12082,RUN,current,not_for_profit,university,public,university
+Royal Melbourne Institute of Technology,3034,PRV12145,ATN,current,not_for_profit,university,public,university
+Southern Cross University,3038,PRV12043,RUN,current,not_for_profit,university,public,university
+Swinburne University of Technology,2177,PRV12148,non_aligned,current,not_for_profit,university,public,university
+The University of Adelaide,3010,PRV12105,Go8,current,not_for_profit,university,public,university
+The University of Melbourne,3036,PRV12150,Go8,current,not_for_profit,university,public,university
 The University of Notre Dame Australia,3044,PRV12170,non_aligned,current,not_for_profit,university,private,university
-University of Tasmania,3045,PRV12110,non_aligned,current,not_for_profit,university,public,university
+The University of Queensland,3019,PRV12080,Go8,current,not_for_profit,university,public,university
+The University of Sydney,3040,PRV12057,Go8,current,not_for_profit,university,public,university
+The University of Western Australia,1055,PRV12169,Go8,current,not_for_profit,university,public,university
+Torrens University Australia Ltd,5555,PRV12209,non_aligned,current,for_profit,university,private,university
+University College London,4413,PRV12106,non_aligned,current,not_for_profit,university,public,university
+University of Canberra,2241,PRV12003,non_aligned,current,not_for_profit,university,public,university
 University of Divinity,4331,PRV12135,non_aligned,current,not_for_profit,university,public,university
+University of New England,3039,PRV12054,RUN,current,not_for_profit,university,public,university
+University of New South Wales,3013,PRV12055,Go8,current,not_for_profit,university,public,university
+University of Newcastle,3014,PRV12056,IRU,former,not_for_profit,university,public,university
+University of South Australia,3027,PRV12107,ATN,current,not_for_profit,university,public,university
+University of Southern Queensland,2201,PRV12081,RUN,current,not_for_profit,university,public,university
+University of Tasmania,3045,PRV12110,non_aligned,current,not_for_profit,university,public,university
+University of Technology Sydney,3016,PRV12060,ATN,current,not_for_profit,university,public,university
+University of the Sunshine Coast,3043,PRV12082,RUN,current,not_for_profit,university,public,university
 Sydney College of Divinity Ltd,4332,PRV12045,,,not_for_profit,faith_based,private,not_for_profit
 Christian Heritage College,4333,PRV12074,,,not_for_profit,faith_based,private,not_for_profit
 Tabor College Incorporated,4334,PRV12103 ,,,not_for_profit,faith_based,private,not_for_profit
@@ -77,7 +77,7 @@ Campion Institute Limited,4368,PRV12017,,,not_for_profit,faith_based,private,not
 Tabor College Tasmania Inc.,4370,PRV12109,,,not_for_profit,faith_based,private,not_for_profit
 SAE Institute Pty Limited,4371,PRV12042,,,for_profit,for_profit,private,for_profit
 Jansen Newman Institute Pty. Limited,4373,PRV12028,,,for_profit,for_profit,private,for_profit
-Carnegie Mellon University,4374,PRV12095,non_aligned,current,not_for_profit,university,public,university
+University of Wollongong,1058,PRV12062,non_aligned,current,not_for_profit,university,public,university
 Think: Colleges Pty Ltd,4375,PRV12058,,,for_profit,for_profit,private,for_profit
 UOWC Ltd,4377,PRV12027,,,for_profit,pathway,private,for_profit
 JMC Pty. Limited,4378,PRV12029,,,for_profit,for_profit,private,for_profit
@@ -108,7 +108,7 @@ Group Colleges Australia Pty Ltd,4409,PRV12021,,,for_profit,for_profit,private,f
 Australian Institute of Management South Australian Division Incorporated,4410,PRV12091,,,not_for_profit,prof_body,private,not_for_profit
 Acknowledge Education Pty Ltd,4411,PRV12146,,,for_profit,for_profit,private,for_profit
 Morling College Ltd,4412,PRV12034,,,not_for_profit,faith_based,private,not_for_profit
-University College London,4413,PRV12106,non_aligned,current,not_for_profit,university,public,university
+Victoria University,3007,PRV12152,non_aligned,current,not_for_profit,university,public,university
 Top Education Group Limited,4415,PRV12059,,,for_profit,for_profit,private,for_profit
 Navitas Bundoora Pty Ltd,4417,PRV12186,,,for_profit,pathway,private,for_profit
 Australian School of Management Pty Ltd,4418,PRV12156,,,for_profit,for_profit,private,for_profit
@@ -130,7 +130,7 @@ S P Jain School of Global Management Pty Limited,4455,PRV12041,,,for_profit,for_
 Australian Institute of Management Education and Training Pty Limited,4458,PRV12071,,,for_profit,for_profit,private,for_profit
 Australian College of Nursing Ltd,4464,PRV14001,,,not_for_profit,other,private,not_for_profit
 South Metropolitan TAFE,4468,PRV14272,,,not_for_profit,TAFE,public,TAFE
-Torrens University Australia Ltd,5555,PRV12209,non_aligned,current,for_profit,university,private,university
+Western Sydney University,3004,PRV12061,IRU,current,not_for_profit,university,public,university
 The Cairnmillar Institute,6043,PRV14003,,,not_for_profit,other,private,not_for_profit
 BBI The Australian Institute of Theological Education,6044,PRV14082,,,not_for_profit,faith_based,private,not_for_profit
 Australian College of the Arts Pty Ltd,7001,PRV12187,,,for_profit,for_profit,private,for_profit
